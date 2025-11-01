@@ -1,4 +1,4 @@
-# Billboard-Spotify-hit
+# Billboard-Spotify-hit-Tableau
 Interactive parameter-driven visualizations combining BillboardHot100 and Spotify songAttributes to explore trends in song popularity, audio features, and genre dynamics.
 
 <img width="1071" height="726" alt="Screenshot 2025-10-31 at 5 51 57 PM" src="https://github.com/user-attachments/assets/f4c8e537-708b-454d-869b-a0ee1aa69efc" />
